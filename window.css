@@ -1,3 +1,5 @@
 .window{
   border-radius: 0.4375em; /* 7px @ 16px */
+  border: 0.0625em solid rgba(50, 50, 50, 0.25); /* 1px @ 16px */
+  box-shadow: 0 1.375em 4.1176470588em 0 rgba(0, 0, 0, 0.56);  /* 22px, 70px @ 16px */
 }
